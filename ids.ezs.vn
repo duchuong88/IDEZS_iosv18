@@ -1,0 +1,20 @@
+
+
+Tên app: IDEZS
+
+Mô tả: Phần mềm quản lý Spa
+
+ids.ezs.vn
+
+
+
+
+Phần mềm demo cser.ezs.vn
+
+
+
+<key>NSBluetoothAlwaysUsageDescription</key>
+<string>Our app does not request this permission or utilize this functionality but it is included in our info.plist since our app utilizes some library, which references this permission in its code.</string>
+<key>NSBluetoothPeripheralUsageDescription</key>
+<string>Our app does not request this permission or utilize this functionality but it is included in our info.plist since our app utilizes some library, which references this permission in its code.</string>
+
