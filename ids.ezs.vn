@@ -7,6 +7,9 @@ Mô tả: Phần mềm quản lý Spa
 ids.ezs.vn
 
 
+vn.idezs
+
+
 
 
 Phần mềm demo cser.ezs.vn
@@ -33,6 +36,11 @@ http://169.254.200.5001
 
 
 Mở dev hidden
+
+
+sua DownloadFileTask, AppDelegate, PostFileToServer
+
+
 
 
 
