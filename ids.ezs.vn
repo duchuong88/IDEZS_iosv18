@@ -38,8 +38,27 @@ http://169.254.200.5001
 Mở dev hidden
 
 
+pod deintegrate
+pod install
+pod update
+
+
 sua DownloadFileTask, AppDelegate, PostFileToServer
 
+
+
+https://github.com/tuanteng96/APP_CC_IOS_V2
+https://github.com/tuanteng96/APP_CC_ANDROID_V2
+
+
+
+android vô hiệu hóa background location, thêm dòng id quảng cáo
+
+sửa lại icon và firebase r Clean & Rebuild Project:
+
+Build → Clean Project
+
+Build → Rebuild Project
 
 
 
